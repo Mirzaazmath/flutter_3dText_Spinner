@@ -23,6 +23,18 @@ A new Flutter project.
 # ScreenShot4
 <img src="https://github.com/Mirzaazmath/flutter_3dText_Spinner/blob/main/assets/Screenshot4.png" height="400">
 
+# Result
+
+<img src ="https://github.com/Mirzaazmath/flutter_3dText_Spinner/blob/main/assets/result.gif" height="400">
+
+
+# Tutorial
+https://www.youtube.com/watch?v=cJFWEZ3FVpo&t=2565s
+
+
+# Blog 
+https://fidev.io/kinetic-poster/
+
 
 
 ![](assets/Screenshot4.png)
